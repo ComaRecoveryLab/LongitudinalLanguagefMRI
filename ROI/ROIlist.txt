@@ -1,0 +1,4 @@
+ROI/STGleft.nii.gz
+ROI/STGright.nii.gz
+ROI/IFGleft.nii.gz
+ROI/IFGright.nii.gz

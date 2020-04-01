@@ -1,0 +1,43 @@
+# Subject Scan List for FSL Batch Analysis
+# 
+# Enter the output directory below
+# OUTPUT_DIR derivatives
+#
+# Each line should point to the DICOM scan date directory, followed by the desired f- and g-values for SagT1 extraction
+#
+# Patient Scans
+sub-p01/ses-acute 0.3 0
+sub-p02/ses-acute 0.3 0
+sub-p03/ses-acute 0.3 0
+sub-p04/ses-acute 0.3 0
+sub-p05/ses-acute 0.3 0
+sub-p06/ses-acute 0.3 0
+sub-p07/ses-acute 0.3 0
+sub-p08/ses-acute 0.3 0
+sub-p01/ses-followup 0.5 -0.1
+sub-p02/ses-followup 0.5 -0.4
+sub-p03/ses-followup 0.6 -0.4
+sub-p04/ses-followup 0.45 -0.2
+sub-p05/ses-followup 0.6 -0.2
+sub-p06/ses-followup 0.4 -0.4
+sub-p07/ses-followup 0.5 -0.4
+sub-p08/ses-followup  0.5 -0.4
+#
+# Control Scans
+sub-c01
+sub-c02
+sub-c03
+sub-c04
+sub-c05
+sub-c06
+sub-c07
+sub-c08
+sub-c09
+sub-c10
+sub-c11
+sub-c12
+sub-c13
+sub-c14
+sub-c15
+sub-c16
+
